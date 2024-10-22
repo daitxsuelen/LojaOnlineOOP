@@ -10,6 +10,7 @@ public abstract class Produto // Classe abstrata
         Codigo = Guid.NewGuid().ToString(); //Gera um código único
         Preco = preco;
     }
-
+    
+ 
     public abstract decimal CalcularPrecoFinal(); //Método para classes derivadas
 }

@@ -1,0 +1,15 @@
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\bin\Debug\net8.0\AP2-Suelen.exe
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\bin\Debug\net8.0\AP2-Suelen.deps.json
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\bin\Debug\net8.0\AP2-Suelen.runtimeconfig.json
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\bin\Debug\net8.0\AP2-Suelen.dll
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\bin\Debug\net8.0\AP2-Suelen.pdb
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\obj\Debug\net8.0\AP2-Suelen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\obj\Debug\net8.0\AP2-Suelen.AssemblyInfoInputs.cache
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\obj\Debug\net8.0\AP2-Suelen.AssemblyInfo.cs
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\obj\Debug\net8.0\AP2-Suelen.csproj.CoreCompileInputs.cache
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\obj\Debug\net8.0\AP2-Suelen.sourcelink.json
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\obj\Debug\net8.0\AP2-Suelen.dll
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\obj\Debug\net8.0\refint\AP2-Suelen.dll
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\obj\Debug\net8.0\AP2-Suelen.pdb
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\obj\Debug\net8.0\AP2-Suelen.genruntimeconfig.cache
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\AP2-Suelen\obj\Debug\net8.0\ref\AP2-Suelen.dll

@@ -4,7 +4,7 @@
     {
         Loja loja = new Loja();
 
-    ProdutoFisico livro = new ProdutoFisico("Livro", 50, 0.5, "Livros");
+    ProdutoFisico livro = new ProdutoFisico("Livro", 50, 0.5, "Livros", 10);
     ProdutoDigital eBook = new ProdutoDigital("Ebook", 30, 10, "PDF");
 
     loja.CadastrarProduto(livro);
@@ -18,11 +18,16 @@
     Pedido pedido = loja.CriarPedido(cliente);
     pedido.AdicionarProduto(livro);
     pedido.AdicionarProduto(eBook);
-    
 
     //Finalização do pedido
 
     loja.FinalizarPedido(pedido);
+
+    
+    //Criar um estoque inicial
+    livro.AdicionarEstoque(10);
+    livro.RemoverEstoque(5);
+      
 
     }
     
