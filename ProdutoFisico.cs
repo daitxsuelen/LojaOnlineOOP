@@ -22,7 +22,7 @@ public class ProdutoFisico : Produto // Classe herdada de Produto
 
     public void AdicionarEstoque(int quantidade) //Método para adicionar produtos
     {
-        if (quantidade <= 0)
+        if (quantidade >= 0)
         {
             Estoque += quantidade;
             Console.WriteLine($"Foram adicionados {quantidade} unidades ao estoque.Estoque atual: {Estoque}!!" );

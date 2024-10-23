@@ -25,7 +25,10 @@
 
     
     //Criar um estoque inicial
+    //já adiciona o estoque ap criar o produto livro
     livro.AdicionarEstoque(10);
+
+    //chamar o remover estoque quando finalizar o pedido
     livro.RemoverEstoque(5);
       
 
